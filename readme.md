@@ -2,4 +2,4 @@
 
 ---
 
-simply counter with 3 buttons (reset, increase, decrease)
+Simply counter with 3 buttons (reset, increase, decrease)
